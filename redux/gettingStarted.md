@@ -1,6 +1,6 @@
 # What do we need?
 ## import:
-* ```Provider``` from ```react-redux```
+* ```Provider``` from `react-redux`
   * then put it into:
 ```
 ReactDOM.render(
