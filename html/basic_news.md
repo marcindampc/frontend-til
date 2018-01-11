@@ -6,6 +6,7 @@
 ## Web browser
 * URI - Uniform Resource Identifier - web standard witch make identification of web resources easier
 * URL - Uniform Resource Locator
+* DNS - Domain Name System
 
 ```
 http://www.wikipedia.com/wiki/URL
@@ -18,3 +19,4 @@ protocol
 ## HyperText Transform Protocol
 communication protocol - set of strict rules and ways of habits of machines to estabilish and maintain connection and data processing
 
+---
