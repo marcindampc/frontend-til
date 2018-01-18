@@ -4,8 +4,6 @@
 Semantyczny HTML odnosi się zatem do tworzenia dokumentu HTML, w którym znaczniki poprawnie opisują znaczenie i funkcję fragmentu tekstu, który zawierają.
 
 https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Content_categories#Sectioning_content
-https://www.w3schools.com/html/html5_semantic_elements.asp
-
 [znaczniki semantyczne](http://www.kurshtml.edu.pl/html/kod_poprawny_semantycznie,tekst.html)
 
 article, aside, details, figcaption, figure, footer, header, main, mark, nav, section, summary, time
