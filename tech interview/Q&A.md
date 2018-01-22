@@ -13,8 +13,9 @@ article, aside, details, figcaption, figure, footer, header, main, mark, nav, se
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/data
 * custom data attribute
 * helps extend the info that HTML element can communicate to a program or script
-* i.e 'data-something-awesome="123456789"' then target it by '_____.dataset.somethingAwesome'
+* i.e. 'data-something-awesome="123456789"' then target it by '_____.dataset.somethingAwesome'
 * [nice explenation](https://www.youtube.com/watch?v=3r7dkLersKA)
+
 https://developer.mozilla.org/en-US/docs/Web/API/HTMLDataElement
 ## optymalizacja strony html
 [Porady odnośnie tworzenia szybko ładujących się stron HTML](https://developer.mozilla.org/pl/docs/Porady_odno%C5%9Bnie_tworzenia_szybko_%C5%82aduj%C4%85cych_si%C4%99_stron_HTML)
