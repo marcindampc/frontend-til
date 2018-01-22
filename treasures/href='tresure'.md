@@ -1,5 +1,7 @@
 MAPA 
+
 https://coggle.it/diagram/WL2jE4qVIgABgKIH/t/modern-js-web-ap
+
 Narzedzia
 
 https://webcode.tools/
