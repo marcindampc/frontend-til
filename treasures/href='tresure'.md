@@ -1,5 +1,7 @@
-MAPA https://coggle.it/diagram/WL2jE4qVIgABgKIH/t/modern-js-web-ap
+MAPA 
+https://coggle.it/diagram/WL2jE4qVIgABgKIH/t/modern-js-web-ap
 Narzedzia
+
 https://webcode.tools/
 http://bennettfeely.com/clippy/
 https://frontendchecklist.io/
@@ -7,22 +9,28 @@ https://frontendchecklist.io/
 http://cdn.oreillystatic.com/news/graphics/prog_lang_poster.pdf
 
 git
+
 https://www.youtube.com/watch?v=y5dYIyGZCRs
 https://medium.com/@anweshachatterjee/how-i-got-rid-of-my-irrational-fear-of-git-rebase-25a12095e45e
 
 Przeglądarki
+
 https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
 
 Zhs
+
 https://github.com/robbyrussell/oh-my-zsh
 
 Webstorm
+
 https://www.jetbrains.com/help/webstorm/quick-start-guide.html
 
 Kurs pisania
+
 http://kurspisania.pl/
 
 Inspiracje:
+
 https://onepagelove.com/
 https://dribbble.com/
 http://www.pages.xyz/type/product
@@ -32,13 +40,16 @@ https://medium.com/@DaphneWatson/css-normalize-css-reset-which-one-do-you-prefer
 
 
 Dobieranie fontów google
+
 http://fontpair.co/
 
 Dobieranie kolorów
+
 https://coolors.co/
 http://www.colorhunt.co
 
 Layouty
+
 http://learnlayout.com/
 http://www.free-css.com/free-css-templates
 http://launchaco.com/build/
@@ -54,32 +65,40 @@ https://i.pinimg.com/564x/a2/49/e1/a249e18103459ddf67f5f479682c23fa.jpg
 https://alexpetralia.com/posts/2017/6/26/learning-linux-bash-to-get-things-done
 
 Logo
+
 https://logofox.co/form/name
 
 Design
+
 https://www.smashingmagazine.com/2017/11/comprehensive-guide-web-design/
 https://uxdesign.cc/theres-no-such-thing-as-minor-design-changes-18ee2bebeab4
 
 !!!!!!!!!!! https://tympanus.net/Development/AnimatedImagePieces/index.html
 
 RWD
+
 https://designmodo.com/responsive-design-examples/
 
 Zdjęcia
+
 https://unsplash.com/
 http://klosinski.net/banki-z-darmowymi-zdjeciami/ (+wytłumaczone kwestie licencji!)
 
 Emmet:
+
 https://docs.emmet.io/cheat-sheet/
 
 Html
+
 https://websitesetup.org/html5-cheat-sheet/
 https://html5boilerplate.com/
 
 Email form
+
 https://formspree.io/
 
 css
+
 https://github.com/necolas/normalize.css/
 https://meyerweb.com/eric/tools/css/reset/
 https://codepen.io/erikterwan/pen/EVzeRP
@@ -95,6 +114,7 @@ https://www.smashingmagazine.com/2017/12/grid-inspector/
 https://www.smashingmagazine.com/2017/12/understanding-css-layout-block-formatting-context/
 
 Flexbox
+
 http://flexboxfroggy.com/
 https://crossbrowsertesting.com/
 https://codepen.io/enxaneta/full/adLPwv
@@ -102,6 +122,7 @@ http://the-echoplex.net/flexyboxes/
 http://playground.webflow.com/
 
 Inne
+
 http://pixact.ly/
 http://floating-point-gui.de/formats/fp/
 https://liveweave.com/
@@ -109,6 +130,7 @@ https://codepen.io/sdras/pen/rpwjzw
 
 
 JS
+
 http://kursjs.pl/
 http://youmightnotneedjquery.com/
 Koansy https://github.com/liammclennan/JavaScript-Koans
@@ -121,14 +143,18 @@ https://colintoh.com/blog/5-array-methods-that-you-should-use-today
 https://typeofweb.com/2017/05/12/map-i-reduce-w-js/
 
 Jquery
+
 https://websitesetup.org/jquery-cheat-sheet/
 
 Webpack
+
 https://webpack.js.org/
 
 React
+
 https://reactjs.org/docs/try-react.html
 LIFECYCLE
+
 https://codepen.io/tgoyer/details/ONNJWE
 https://reactjs.org/docs/state-and-lifecycle.html
 https://reactjs.org/docs/react-component.html#the-component-lifecycle
@@ -150,53 +176,66 @@ localStorage https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorag
 https://github.com/infoshareacademy/jfdd8-materialy-react#adding-bootstrap
 
 https://ant.design/
- http://blueprintjs.com/
- http://react-toolbox.io/#/
- http://grommet.io/
- https://developer.microsoft.com/en-us/fabric#/components
- http://reactdesktop.js.org/
- https://react.semantic-ui.com/collections/menu
+http://blueprintjs.com/
+http://react-toolbox.io/#/
+http://grommet.io/
+https://developer.microsoft.com/en-us/fabric#/components
+http://reactdesktop.js.org/
+https://react.semantic-ui.com/collections/menu
 
 Rest
+
 http://rest.learncode.academy/
 
 Json server
+
 https://github.com/typicode/json-server
 
 Promisy
+
 https://kosamari.com/notes/the-promise-of-a-burger-party
 https://github.com/mattdesl/promise-cookbook/blob/master/README.md
 
 Fetch
+
 https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 https://github.com/github/fetch
 
 Axios - promisy
+
 https://github.com/axios/axios
 
 Ajax
+
 http://api.jquery.com/jquery.ajax/
 
 Turbo
+
 https://medium.com/@ericsimons/introducing-turbo-5x-faster-than-yarn-npm-and-runs-natively-in-browser-cc2c39715403
 
 Firebase
+
 https://firebase.google.com/
 
 Testy
+
 https://blog.pragmatists.com/how-to-debug-front-end-console-3456e4ee5504
 https://blog.codeship.com/codeships-philosophical-approach-to-frontend-testing/
 
 Jest
+
 https://facebook.github.io/jest/docs/en/expect.html#toequalvalue
 
 Bazy danych
+
 https://www.mockaroo.com/
 
 Algorytmy baz danych
+
 https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 
 Dodatkowo
+
 http://kursjs.pl/kurs/dodatkowe-materialy.php
 http://2ality.com/2016/02/js-fatigue-fatigue.html
 https://github.com/Chalarangelo/30-seconds-of-code
@@ -213,12 +252,14 @@ https://github.com/infoshareacademy/jfdd8-materialy-narzedzia
 
 
 artykuły
+
 https://x-team.com/blog/functional-programming-primer/
 https://hackernoon.com/javascript-hacks-for-es6-hipsters-67d633ce8ace
 https://medium.freecodecamp.org/i-just-asked-23-000-developers-what-they-think-of-javascript-heres-what-i-learned-9a06b61998fa
 https://medium.freecodecamp.org/functional-setstate-is-the-future-of-react-374f30401b6b
 
 BABEL cases
+
 http://babeljs.io/repl/#?babili=false&browsers=&build=&builtIns=false&code_lz=FANwhgTgBAHlC8UDeUwC4oEYAMAaKARhgEzZQC-wokyqGBFCsQA&debug=true&circleciRepo=&evaluate=true&lineWrap=false&presets=es2015&prettier=false&targets=&version=6.26.0
 
 http://babeljs.io/repl/#?babili=false&browsers=&build=&builtIns=false&code_lz=MYGwhgzhAECC0G8BQ1rAPYDsIBcBOArsDungBQCUiKq0OAFgJYQB0uYOAptALzW20AHgC5oARgAMAGhoCAnqIBME2dAC-NDUhp5OmACadyVZAN04CeTHSat2XFoM1ItoSDABC_aPe59TQqKSMvJKKqhaqLoGRpTeUZwWVjbMbDgcnCxyzmpAA&debug=true&circleciRepo=&evaluate=true&lineWrap=false&presets=es2015%2Cstage-2&prettier=false&targets=&version=6.26.0
