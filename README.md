@@ -1,7 +1,7 @@
 # frontend-til
-## TIL notebook from Junior Front-end Developer iSA bootkamp
+## TIL notebook from Junior Front-end Developer iSA bootcamp
 
-here I want to give it a try to understand things better by making notes (which I enjoy doing)
+I want to give it a try to understand things better by making notes (which I enjoy doing)
 
 rules:
 * do it daily
