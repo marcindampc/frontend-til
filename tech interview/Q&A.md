@@ -46,10 +46,17 @@ http://www.websiteoptimization.com/
 * getSelection()
 
 # CSS
-## float
-* right/ left/ centre
-* display: none vs. visibility: hidden
+## float, clear 
+[css tricks - float](https://css-tricks.com/all-about-floats/)
+* right, left, inherit, none
+
+* display: none vs visibility: hidden
+  *display: none - removes element from page (stays in DOM)
+  *visibility: hidden - removes element from view, leaves the sapce
 ## Bootstrap (modal)
+https://v4-alpha.getbootstrap.com/layout/overview/
+
+[modale](https://www.nafrontendzie.pl/okna-modalne-bootstrap-wtyczka-jquery)
 ## pseudoklasy
 * A CSS pseudo-class is a keyword preceded by a colon (:) that is added on to the end of selectors to specify that you want to style the selected elements only when they are in certain state.
 
@@ -100,6 +107,9 @@ http://www.websiteoptimization.com/
 # JS
 ## document.cookie
 ## .this
+[article](https://www.nafrontendzie.pl/slowo-kluczowe-this-javascript)
+* referencja do obiektu, który wywołał daną funkcję lub...
+* w zakresie globalnym “this” jest po prostu referencją do obiektu ‘window’
 ## .splice .reverse i .join
 ## Klasy / ‘class’
 http://kursjs.pl/kurs/es6/class.php
