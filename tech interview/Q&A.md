@@ -147,6 +147,15 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
 # GIT
 Jakie czynności wykonuję po otrzymaniu zadania w projekcie
 ---
+
+#inne tematy
 Wartość zmiennej niezdeklarowanej za pomocą var. Czy mozna sie do niej odwołać potem czy garbageCollector ją usuwa?
+
 stosowanie określonego nazewnictwa klas zgodnie z metodyką BEM czy OOCSS
+
 Opanowanie funkcji wyższego rzędu, IIFE, asynchroniczności, promises, closures, dziedziczenia prototypowego, event bubble, hoistingu, jak działa „this” czy „strict mode”,
+
+testy jednostkowe
+
+SOLID
+wzorce projektowe
