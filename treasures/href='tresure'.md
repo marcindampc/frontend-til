@@ -77,6 +77,8 @@ https://uxdesign.cc/theres-no-such-thing-as-minor-design-changes-18ee2bebeab4
 
 !!!!!!!!!!! https://tympanus.net/Development/AnimatedImagePieces/index.html
 
+UX https://lawsofux.com/
+
 RWD
 
 https://designmodo.com/responsive-design-examples/
@@ -138,6 +140,8 @@ http://youmightnotneedjquery.com/
 Koansy https://github.com/liammclennan/JavaScript-Koans
 https://dorey.github.io/JavaScript-Equality-Table/
 https://typeofweb.com/2017/11/14/this-js-kontekst-wywolania-funkcji/
+The Ultimate Guide to JavaScript Frameworks https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/
+
 REGEX https://regex101.com/
 https://hackernoon.com/htmlcollection-nodelist-and-array-of-objects-da42737181f9
 https://medium.com/@RhinoDavid/processing-javascript-arrays-with-foreach-map-reduce-bf40d1e5eac4
