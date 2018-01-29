@@ -189,6 +189,9 @@ https://developer.microsoft.com/en-us/fabric#/components
 http://reactdesktop.js.org/
 https://react.semantic-ui.com/collections/menu
 
+Vue.js
+https://medium.com/codingthesmartway-com-blog/vue-js-2-quickstart-tutorial-2017-246195cfbdd2
+
 Rest
 
 http://rest.learncode.academy/
