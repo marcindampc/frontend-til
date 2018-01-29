@@ -1,0 +1,10 @@
+# HTTP methods
+* GET
+* HEAD
+* POST
+* PUT
+* PATCH
+* DELETE
+* OPTIONS
+* TRACE
+* CONNECT
