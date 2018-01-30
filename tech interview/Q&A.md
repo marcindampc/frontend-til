@@ -119,7 +119,9 @@ http://kursjs.pl/kurs/es6/class.php
 w JS tworzenie klas nie istnieje, a cały mechanizm posługuje się konstruktorami i działa na prototypach.
 ## New Promise
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+
 https://developers.google.com/web/fundamentals/primers/promises
+
 http://www.datchley.name/es6-promises/
 # Node.js
 * open-source, cross-platform JavaScript run-time environment for executing JavaScript code server-side
