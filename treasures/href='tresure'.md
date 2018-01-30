@@ -14,6 +14,7 @@ git
 
 https://www.youtube.com/watch?v=y5dYIyGZCRs
 https://medium.com/@anweshachatterjee/how-i-got-rid-of-my-irrational-fear-of-git-rebase-25a12095e45e
+how to write a commit https://chris.beams.io/posts/git-commit/
 
 Przeglądarki
 
@@ -157,6 +158,7 @@ Webpack
 https://webpack.js.org/
 
 React
+prepare http://www.algosmart.pl/powtorka-przed-reactjs/
 
 https://reactjs.org/docs/try-react.html
 LIFECYCLE
