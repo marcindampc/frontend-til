@@ -1,7 +1,7 @@
 # Ducks - explenation
 * https://github.com/erikras/ducks-modular-redux
 ## Actions
-* put the into variables as i.e.:
+* put them into variables like that:
 ```
 const DELETE = 'tasks/DELETE';
 const ADD = 'tasks/ADD_TASK';
