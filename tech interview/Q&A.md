@@ -120,6 +120,8 @@ https://developers.google.com/web/fundamentals/primers/promises
 http://www.datchley.name/es6-promises/
 # Node.js
 * open-source, cross-platform JavaScript run-time environment for executing JavaScript code server-side
+# Webpack
+* open-source JavaScript module bundler. Webpack takes modules with dependencies and generates static assets representing those modules.
 # React
 Cykl życia komponentu https://codepen.io/tgoyer/details/ONNJWE
 
