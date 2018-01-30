@@ -44,7 +44,7 @@ http://www.websiteoptimization.com/
 * getElementsByTagName()
 * getElementsByTagNameNS()
 * getSelection()
-
+---
 # CSS
 ## float, clear 
 [css tricks - float](https://css-tricks.com/all-about-floats/)
@@ -103,7 +103,10 @@ https://v4-alpha.getbootstrap.com/layout/overview/
 :visited
 
 ## @import
-
+* used to import style rules from other style sheets. 
+* These rules must precede all other types of rules, except @charset rules; 
+* as it is not a nested statement, @import cannot be used inside conditional group at-rules.
+---
 # JS
 ## document.cookie
 ## .this
