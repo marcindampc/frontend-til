@@ -40,6 +40,8 @@ http://www.pages.xyz/type/product
 http://georgemauer.net/2015/10/18/why-width-50-percent-wont-be-side-by-side
 https://www.sitepoint.com/collapsing-margins/
 https://medium.com/@DaphneWatson/css-normalize-css-reset-which-one-do-you-prefer-6e8cc593ac41
+header footer http://freefrontend.com/css-headers-footers/
+carousels http://freefrontend.com/css-carousels/
 
 
 Dobieranie fontów google
