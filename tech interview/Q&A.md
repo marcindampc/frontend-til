@@ -106,6 +106,8 @@ https://v4-alpha.getbootstrap.com/layout/overview/
 * used to import style rules from other style sheets. 
 * These rules must precede all other types of rules, except @charset rules; 
 * as it is not a nested statement, @import cannot be used inside conditional group at-rules.
+
+## [metodyka BEM](https://www.nafrontendzie.pl/metodyki-css-2-bem)
 ---
 # JS
 ## document.cookie
