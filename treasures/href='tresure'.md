@@ -4,6 +4,7 @@ https://coggle.it/diagram/WL2jE4qVIgABgKIH/t/modern-js-web-ap
 
 Narzedzia
 
+stack https://www.nafrontendzie.pl/stos-technologiczny-dla-front-endu
 https://webcode.tools/
 http://bennettfeely.com/clippy/
 https://frontendchecklist.io/
