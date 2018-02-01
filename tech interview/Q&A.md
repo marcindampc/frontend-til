@@ -162,7 +162,7 @@ Jakie czynności wykonuję po otrzymaniu zadania w projekcie
 
 Wartość zmiennej niezdeklarowanej za pomocą var. Czy mozna sie do niej odwołać potem czy garbageCollector ją usuwa?
 
-stosowanie określonego nazewnictwa klas zgodnie z metodyką BEM czy OOCSS
+
 
 Opanowanie funkcji wyższego rzędu, IIFE, asynchroniczności, promises, closures, dziedziczenia prototypowego, event bubble, hoistingu, jak działa „this” czy „strict mode”,
 
