@@ -77,6 +77,9 @@ Logo
 
 https://logofox.co/form/name
 
+background
+https://www.svgbackgrounds.com/
+
 Design
 
 https://www.smashingmagazine.com/2017/11/comprehensive-guide-web-design/
@@ -84,7 +87,8 @@ https://uxdesign.cc/theres-no-such-thing-as-minor-design-changes-18ee2bebeab4
 
 !!!!!!!!!!! https://tympanus.net/Development/AnimatedImagePieces/index.html
 
-UX https://lawsofux.com/
+UX
+https://lawsofux.com/
 
 RWD
 
