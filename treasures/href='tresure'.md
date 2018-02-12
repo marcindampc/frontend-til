@@ -2,6 +2,9 @@ MAPA
 
 https://coggle.it/diagram/WL2jE4qVIgABgKIH/t/modern-js-web-ap
 
+professional notes
+http://goalkicker.com/
+
 Narzedzia
 
 stack https://www.nafrontendzie.pl/stos-technologiczny-dla-front-endu
