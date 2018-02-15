@@ -75,3 +75,7 @@ $college-ruled-style: (
    //some rules and or conditions
 }
 ```
+* conditionals --> if/else-if/else
+```
+width: if( $condition, $value-if-true, $value-if-false);
+```
