@@ -37,4 +37,5 @@ $college-ruled-style: (
       @include stripes($college-ruled-style...);
  }
 ```
+-  string interpolation - process of placing a variable string in the middle of two other strings. 
 
