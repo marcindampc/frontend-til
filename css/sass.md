@@ -84,3 +84,10 @@ width: if( $condition, $value-if-true, $value-if-false);
 ```
 _filename.scss
 ```
+* @extend %some-class
+
+### As a general rule of thumb, you should
+
+* Try to only create mixins that take in an argument, otherwise you should extend.
+
+* Always look at your CSS output to make sure your extend is behaving as you intended.
