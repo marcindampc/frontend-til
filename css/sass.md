@@ -79,3 +79,8 @@ $college-ruled-style: (
 ```
 width: if( $condition, $value-if-true, $value-if-false);
 ```
+## Sustainable Sass
+* partials
+```
+_filename.scss
+```
