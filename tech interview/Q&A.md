@@ -170,4 +170,8 @@ testy jednostkowe
 
 SOLID
 wzorce projektowe
-- https://stormit.pl/pytania-rekrutacyjne-javascript/
+
+other faq
+* https://stormit.pl/pytania-rekrutacyjne-javascript/
+* https://github.com/yangshun/front-end-interview-handbook
+* https://app.fefaq.pl/questions/html
