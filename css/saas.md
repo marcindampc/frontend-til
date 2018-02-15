@@ -1,13 +1,13 @@
 # SASS - Syntacticly Awesome Style Sheets
 ## SCSS - Sassy CSS
 
-- & - apply to parent
+* & - apply to parent
 ```
 .notecard{
   &:hover{ };
 ```
-- @mixin ---> @include
-  - arguments (value) i.e. ($vivibility)
+* @mixin ---> @include
+  * arguments (value) i.e. ($vivibility)
   ```
   @mixin backface-visibility($visibility: hidden) {
    backface-visibility: $visibility;
@@ -22,7 +22,7 @@
 4. If a mixin definition has a combination of arguments with and without a default value, you should define the ones with no default value first.
 5. Mixins can be nested.
 
-- list arguments / map - allows you to pass in multiple arguments in a list or a map format.
+* list arguments / map - allows you to pass in multiple arguments in a list or a map format.
 ```
 $college-ruled-style: ( 
     direction: to bottom,
@@ -37,5 +37,19 @@ $college-ruled-style: (
       @include stripes($college-ruled-style...);
  }
 ```
--  string interpolation - process of placing a variable string in the middle of two other strings. 
+* string interpolation { } - process of placing a variable string in the middle of two other strings.
+  * handy when you want to make use of variables in selectors or file names
+```
+@mixin photo-content($file) {
+  content: url(#{$file}.jpg); //string interpolation
+  object-fit: cover;
+}
 
+//....
+
+.photo { 
+  @include photo-content('titanosaur');
+  width: 60%;
+  margin: 0px auto; 
+  }
+```
