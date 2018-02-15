@@ -53,3 +53,25 @@ $college-ruled-style: (
   margin: 0px auto; 
   }
 ```
+
+## Functions
+* fade-out
+  ```
+   $color: rgba(39, 39, 39, 0.5);
+   $amount: 0.1;
+   $color2: fade-out($color, $amount);//rgba(39, 39, 39, 0.4)
+   ```
+* fade-in - changes a color by increasing its opacity
+* adjust-hue($color, $degrees) - rotate the color wheel by amount of degrees.
+* each loops
+```
+@each $item in $list {
+  //some rules and or conditions
+}
+```
+* for loops
+```
+@for $i from $begin through $end {
+   //some rules and or conditions
+}
+```
