@@ -91,3 +91,11 @@ _filename.scss
 * Try to only create mixins that take in an argument, otherwise you should extend.
 
 * Always look at your CSS output to make sure your extend is behaving as you intended.
+
+
+# sum-up
+* Sustainability is key in Sass, planning out the structure of your files and sticking to naming conventions for both variables, mixins, and selectors can reduce complexity.
+
+* Understanding CSS output is also essential to writing sustainable SCSS. In order to make the best choices about what functions and directives to use, it is important to first understand how this will translate in CSS.
+
+* Mixins should only be used if they take in an argument, otherwise, you should extend the selector's rules, whether it be a class, id, or placeholder.
