@@ -59,7 +59,7 @@ http://www.colorhunt.co
 
 Layouty
 
-http://learnlayout.com/
+http://learnlayout.com
 http://www.free-css.com/free-css-templates
 http://launchaco.com/build/
 https://pl.pinterest.com/explore/css-website-templates/?lp=true
