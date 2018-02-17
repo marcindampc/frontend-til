@@ -78,6 +78,10 @@ Logo
 
 * https://logofox.co/form/name
 
+icons
+* https://www.iconfinder.com/
+* https://iconmonstr.com
+
 background
 
 * https://www.svgbackgrounds.com/
