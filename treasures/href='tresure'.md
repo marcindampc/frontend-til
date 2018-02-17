@@ -59,36 +59,38 @@ http://www.colorhunt.co
 
 Layouty
 
-http://learnlayout.com
-http://www.free-css.com/free-css-templates
-http://launchaco.com/build/
-https://pl.pinterest.com/explore/css-website-templates/?lp=true
-https://www.codementor.io/codementorteam/4-different-html-css-layout-techniques-to-create-a-site-85i9t1x34
-https://designshack.net/articles/layouts/10-rock-solid-website-layout-examples/
-https://tympanus.net/codrops/ !!!!!!!!!!!!!!
-https://tympanus.net/codrops/category/playground/
-http://blog.teamtreehouse.com/which-page-layout
-https://getbootstrap.com/docs/4.0/examples/
-https://pl.pinterest.com/pin/381750505892550984/
-https://i.pinimg.com/564x/a2/49/e1/a249e18103459ddf67f5f479682c23fa.jpg
-https://alexpetralia.com/posts/2017/6/26/learning-linux-bash-to-get-things-done
+* http://learnlayout.com
+* http://www.free-css.com/free-css-templates
+* http://launchaco.com/build/
+* https://pl.pinterest.com/explore/css-website-templates/?lp=true
+* https://www.codementor.io/codementorteam/4-different-html-css-layout-techniques-to-create-a-site-85i9t1x34
+* https://designshack.net/articles/layouts/10-rock-solid-website-layout-examples/
+* https://tympanus.net/codrops/ !!!!!!!!!!!!!!
+* https://tympanus.net/codrops/category/playground/
+* http://blog.teamtreehouse.com/which-page-layout
+* https://getbootstrap.com/docs/4.0/examples/
+* https://pl.pinterest.com/pin/381750505892550984/
+* https://i.pinimg.com/564x/a2/49/e1/a249e18103459ddf67f5f479682c23fa.jpg
+* https://alexpetralia.com/posts/2017/6/26/learning-linux-bash-to-get-things-done
 
 Logo
 
-https://logofox.co/form/name
+* https://logofox.co/form/name
 
 background
-https://www.svgbackgrounds.com/
+
+* https://www.svgbackgrounds.com/
 
 Design
 
-https://www.smashingmagazine.com/2017/11/comprehensive-guide-web-design/
-https://uxdesign.cc/theres-no-such-thing-as-minor-design-changes-18ee2bebeab4
+* https://www.smashingmagazine.com/2017/11/comprehensive-guide-web-design/
+* https://uxdesign.cc/theres-no-such-thing-as-minor-design-changes-18ee2bebeab4
 
 !!!!!!!!!!! https://tympanus.net/Development/AnimatedImagePieces/index.html
 
 UX
 https://lawsofux.com/
+https://www.uxpin.com/studio/ebooks/
 
 RWD
 
