@@ -135,6 +135,10 @@ css
 * https://www.smashingmagazine.com/2017/12/grid-inspector/
 * https://www.smashingmagazine.com/2017/12/understanding-css-layout-block-formatting-context/
 
+
+BEM
+* https://dailyweb.pl/kompleksowy-przewodnik-po-bem-jak-pisac-piekne-cssy-i-nie-tylko/
+
 Flexbox
 
 * http://flexboxfroggy.com/
@@ -177,6 +181,13 @@ JS
 * https://medium.com/@RhinoDavid/processing-javascript-arrays-with-foreach-map-reduce-bf40d1e5eac4
 * https://colintoh.com/blog/5-array-methods-that-you-should-use-today
 * https://typeofweb.com/2017/05/12/map-i-reduce-w-js/
+
+SPA single page application
+* https://www.codeschool.com/beginners-guide-to-web-development/single-page-applications
+
+PWA progressive web app
+* https://www.netguru.co/blog/what-makes-a-web-app-progressive
+* https://www.netguru.co/blog/if-youre-building-any-of-these-4-types-of-apps-you-need-progressive-web-apps
 
 REGEX 
 * https://regex101.com/
