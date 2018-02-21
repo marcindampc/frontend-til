@@ -86,6 +86,9 @@ background
 
 * https://www.svgbackgrounds.com/
 
+paralax
+* https://basicscroll.electerious.com/
+
 Design
 
 * https://www.smashingmagazine.com/2017/11/comprehensive-guide-web-design/
