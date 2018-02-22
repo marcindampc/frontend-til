@@ -86,6 +86,9 @@ background
 
 * https://www.svgbackgrounds.com/
 
+gradient
+* http://ourownthing.co.uk/gradpad.html
+
 paralax
 * https://basicscroll.electerious.com/
 
