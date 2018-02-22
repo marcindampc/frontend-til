@@ -2,6 +2,9 @@ MAPA
 
 * https://coggle.it/diagram/WL2jE4qVIgABgKIH/t/modern-js-web-ap
 
+ASKING GOOD QUESTIONS
+* https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603
+
 professional notes
 * http://goalkicker.com/
 
