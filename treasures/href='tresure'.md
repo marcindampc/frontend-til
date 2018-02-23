@@ -1,4 +1,4 @@
-MAPA 
+MAP
 
 * https://coggle.it/diagram/WL2jE4qVIgABgKIH/t/modern-js-web-ap
 
@@ -8,7 +8,7 @@ ASKING GOOD QUESTIONS
 professional notes
 * http://goalkicker.com/
 
-Narzedzia
+tools
 
 * stack https://www.nafrontendzie.pl/stos-technologiczny-dla-front-endu
 * https://webcode.tools/
@@ -22,7 +22,7 @@ git
 * https://medium.com/@anweshachatterjee/how-i-got-rid-of-my-irrational-fear-of-git-rebase-25a12095e45e
 * how to write a commit https://chris.beams.io/posts/git-commit/
 
-Przeglądarki
+browsers
 
 * https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
 
@@ -37,11 +37,11 @@ Webstorm
 
 * https://www.jetbrains.com/help/webstorm/quick-start-guide.html
 
-Kurs pisania
+write but don't look ;)
 
 * http://kurspisania.pl/
 
-Inspiracje:
+Inspirations
 
 * https://onepagelove.com/
 * https://dribbble.com/
@@ -54,16 +54,16 @@ Inspiracje:
 * pure js scroll https://codepen.io/Javarome/pen/LEOQMe
 
 
-Dobieranie fontów google
+font picker
 
 * http://fontpair.co/
 
-Dobieranie kolorów
+color picker
 
 * https://coolors.co/
 * http://www.colorhunt.co
 
-Layouty
+Layouts
 
 * http://learnlayout.com
 * http://www.free-css.com/free-css-templates
@@ -112,7 +112,7 @@ RWD
 
 * https://designmodo.com/responsive-design-examples/
 
-Zdjęcia
+photos
 
 * https://unsplash.com/
 * http://klosinski.net/banki-z-darmowymi-zdjeciami/ (+wytłumaczone kwestie licencji!)
@@ -171,7 +171,7 @@ sass
 * http://sass-lang.com/guide
 * https://scotch.io/tutorials/getting-started-with-sass
 
-Inne
+others
 
 * http://pixact.ly/
 * http://floating-point-gui.de/formats/fp/
@@ -258,7 +258,7 @@ Json server
 
 * https://github.com/typicode/json-server
 
-Promisy
+Promises
 
 * https://kosamari.com/notes/the-promise-of-a-burger-party
 * https://github.com/mattdesl/promise-cookbook/blob/master/README.md
@@ -268,7 +268,7 @@ Fetch
 * https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 * https://github.com/github/fetch
 
-Axios - promisy
+Axios - promises
 
 * https://github.com/axios/axios
 
@@ -284,7 +284,7 @@ Firebase
 
 * https://firebase.google.com/
 
-Testy
+Tests
 
 * https://blog.pragmatists.com/how-to-debug-front-end-console-3456e4ee5504
 * https://blog.codeship.com/codeships-philosophical-approach-to-frontend-testing/
@@ -293,15 +293,15 @@ Jest
 
 * https://facebook.github.io/jest/docs/en/expect.html#toequalvalue
 
-Bazy danych
+data bases
 
 * https://www.mockaroo.com/
 
-Algorytmy baz danych
+data bases algorithms
 
 * https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 
-Dodatkowo
+bonus
 
 * http://kursjs.pl/kurs/dodatkowe-materialy.php
 * http://2ality.com/2016/02/js-fatigue-fatigue.html
@@ -318,7 +318,7 @@ Dodatkowo
 * https://github.com/infoshareacademy/jfdd8-materialy-narzedzia
 
 
-artykuły
+articles
 
 * https://x-team.com/blog/functional-programming-primer/
 * https://hackernoon.com/javascript-hacks-for-es6-hipsters-67d633ce8ace
