@@ -30,7 +30,7 @@ Zhs
 
 * https://github.com/robbyrussell/oh-my-zsh
 
-Code editors $ IDEs
+Code editors & IDEs
 * [Atom teletype - simultaneously coding](https://teletype.atom.io/)
 
 Webstorm
