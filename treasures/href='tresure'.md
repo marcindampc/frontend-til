@@ -14,7 +14,6 @@ Narzedzia
 * https://webcode.tools/
 * http://bennettfeely.com/clippy/
 * https://frontendchecklist.io/
-
 * http://cdn.oreillystatic.com/news/graphics/prog_lang_poster.pdf
 
 git
@@ -30,6 +29,9 @@ Przeglądarki
 Zhs
 
 * https://github.com/robbyrussell/oh-my-zsh
+
+Code editors $ IDEs
+* [Atom teletype - simultaneously coding](https://teletype.atom.io/)
 
 Webstorm
 
