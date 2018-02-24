@@ -171,6 +171,15 @@ testy jednostkowe
 SOLID
 wzorce projektowe
 
+# opracować
+jaki jest zakres zmiennych (scope) w ES5
+co to jest funkcja natychmiastowa (IIFE)
+czy wiesz co to jest “revealing module pattern”?
+jak można zmienić kontekst wywołania funkcji?
+co to jest “promise”
+czym jest funkcja wywołania zwrotnego (“callback”)?
+co to jest “callback hell” i jak można się go pozbyć?
+
 other faq
 * https://stormit.pl/pytania-rekrutacyjne-javascript/
 * https://github.com/yangshun/front-end-interview-handbook
