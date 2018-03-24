@@ -153,7 +153,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
 [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
 [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 
-# (Debugging)[https://raygun.com/javascript-debugging-tools?utm_source=cooperpress&utm_medium=text-link&utm_campaign=js-weekly]
+# [Debugging](https://raygun.com/javascript-debugging-tools?utm_source=cooperpress&utm_medium=text-link&utm_campaign=js-weekly)
 
 # GIT
 Jakie czynności wykonuję po otrzymaniu zadania w projekcie
