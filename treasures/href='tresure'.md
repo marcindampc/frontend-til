@@ -87,9 +87,14 @@ icons
 * https://www.iconfinder.com/
 * https://iconmonstr.com
 
+
+
 background
 
 * https://www.svgbackgrounds.com/
+
+background video
+* https://coverr.co/
 
 gradient
 * http://ourownthing.co.uk/gradpad.html
