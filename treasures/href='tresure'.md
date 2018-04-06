@@ -217,6 +217,7 @@ Webpack
 * https://webpack.js.org/
 
 React
+* https://www.javascriptstuff.com/react-starter-projects/
 * prepare http://www.algosmart.pl/powtorka-przed-reactjs/
 * https://reactjs.org/docs/try-react.html 
 
