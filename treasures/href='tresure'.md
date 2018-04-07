@@ -137,6 +137,7 @@ Email form
 
 css
 
+* https://speckyboy.com/css-background-effects/
 * https://github.com/necolas/normalize.css/
 * https://meyerweb.com/eric/tools/css/reset/
 * https://codepen.io/erikterwan/pen/EVzeRP
