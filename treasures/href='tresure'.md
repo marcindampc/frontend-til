@@ -217,6 +217,8 @@ Webpack
 
 * https://webpack.js.org/
 
+npm
+* [Rollup.js](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3)
 React
 * https://www.javascriptstuff.com/react-starter-projects/
 * prepare http://www.algosmart.pl/powtorka-przed-reactjs/
