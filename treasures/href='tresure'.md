@@ -1,4 +1,4 @@
-MAP
+THE MAP
 
 * https://coggle.it/diagram/WL2jE4qVIgABgKIH/t/modern-js-web-ap
 * https://frontendmasters.com/books/front-end-handbook/2018/frontendmasters.html
