@@ -336,6 +336,7 @@ articles
 * https://hackernoon.com/javascript-hacks-for-es6-hipsters-67d633ce8ace
 * https://medium.freecodecamp.org/i-just-asked-23-000-developers-what-they-think-of-javascript-heres-what-i-learned-9a06b61998fa
 * https://medium.freecodecamp.org/functional-setstate-is-the-future-of-react-374f30401b6b
+* https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3
 
 BABEL cases
 
