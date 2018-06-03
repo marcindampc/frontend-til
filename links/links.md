@@ -201,6 +201,9 @@ JS
 * https://colintoh.com/blog/5-array-methods-that-you-should-use-today
 * https://typeofweb.com/2017/05/12/map-i-reduce-w-js/
 
+Libraries
+* https://blog.bitsrc.io/11-javascript-utility-libraries-you-should-know-in-2018-3646fb31ade
+
 SPA single page application
 * https://www.codeschool.com/beginners-guide-to-web-development/single-page-applications
 
