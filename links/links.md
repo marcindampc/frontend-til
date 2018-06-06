@@ -236,24 +236,6 @@ LIFECYCLE
 * https://reactjs.org/docs/react-component.html#the-component-lifecycle
 * https://reactjs.org/docs/typechecking-with-proptypes.html
 
-Security
-
-* https://github.com/vasanthk/web-security-basics
-* https://www.sans.org/reading-room/whitepapers/securecode/security-checklist-web-application-design-1389
-* https://github.com/drublic/checklist
-* https://html5sec.org/
-* https://mikewest.org/2013/09/frontend-security-frontendconf-2013
-* https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP
-* https://code.google.com/archive/p/browsersec/wikis/Main.wiki
-* https://github.com/shieldfy/API-Security-Checklist
-* http://n-gate.com/software/2017/07/12/0/
-* http://searchsecurity.techtarget.com/definition/DNS-attack
-* https://www.owasp.org/index.php/Main_Page
-* https://www.owasp.org/index.php/Category:Attack
-* https://security.stackexchange.com/questions/8145/does-https-prevent-man-in-the-middle-attacks-by-proxy-server
-* https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
-* https://excess-xss.com/
-* https://medium.com/dailyjs/exploiting-script-injection-flaws-in-reactjs-883fb1fe36c1
 
 * https://medium.com/styled-components/component-folder-pattern-ee42df37ec68
 * https://mdbootstrap.com/automated-app-start/
@@ -301,6 +283,25 @@ Fetch
 
 * https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 * https://github.com/github/fetch
+
+Security
+
+* https://github.com/vasanthk/web-security-basics
+* https://www.sans.org/reading-room/whitepapers/securecode/security-checklist-web-application-design-1389
+* https://github.com/drublic/checklist
+* https://html5sec.org/
+* https://mikewest.org/2013/09/frontend-security-frontendconf-2013
+* https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP
+* https://code.google.com/archive/p/browsersec/wikis/Main.wiki
+* https://github.com/shieldfy/API-Security-Checklist
+* http://n-gate.com/software/2017/07/12/0/
+* http://searchsecurity.techtarget.com/definition/DNS-attack
+* https://www.owasp.org/index.php/Main_Page
+* https://www.owasp.org/index.php/Category:Attack
+* https://security.stackexchange.com/questions/8145/does-https-prevent-man-in-the-middle-attacks-by-proxy-server
+* https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
+* https://excess-xss.com/
+* https://medium.com/dailyjs/exploiting-script-injection-flaws-in-reactjs-883fb1fe36c1
 
 Axios - promises
 
