@@ -95,6 +95,12 @@ background
 
 * https://www.svgbackgrounds.com/
 
+photos
+
+* https://unsplash.com/
+* http://klosinski.net/banki-z-darmowymi-zdjeciami/ (+wytłumaczone kwestie licencji!)
+
+
 background video
 * https://coverr.co/
 
@@ -118,11 +124,6 @@ UX
 RWD
 
 * https://designmodo.com/responsive-design-examples/
-
-photos
-
-* https://unsplash.com/
-* http://klosinski.net/banki-z-darmowymi-zdjeciami/ (+wytłumaczone kwestie licencji!)
 
 Emmet:
 
