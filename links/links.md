@@ -64,6 +64,7 @@ color picker
 
 * https://coolors.co/
 * http://www.colorhunt.co
+* http://www.paletton.com/
 
 Layouts
 
