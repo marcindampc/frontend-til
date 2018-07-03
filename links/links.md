@@ -177,6 +177,11 @@ CSS Grid
 
 Bootstrap
 * https://bootsnipp.com/
+* https://daneden.github.io/animate.css/
+* https://mdbootstrap.com/freebies/
+* http://www.mashup-template.com/templates.html
+* https://www.creative-tim.com/bootstrap-themes/ui-kit?direction=asc&sort=price
+* https://startbootstrap.com/template-categories/all/
 
 sass
 * http://sass-lang.com/guide
