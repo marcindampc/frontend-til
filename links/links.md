@@ -138,6 +138,7 @@ Html
 Email form
 
 * https://formspree.io/
+* https://mailchimp.com/
 
 css
 
