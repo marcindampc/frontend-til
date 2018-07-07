@@ -142,6 +142,7 @@ Email form
 
 css
 
+* transitions & transformationsn https://robots.thoughtbot.com/transitions-and-transforms
 * https://speckyboy.com/css-background-effects/
 * https://github.com/necolas/normalize.css/
 * https://meyerweb.com/eric/tools/css/reset/
