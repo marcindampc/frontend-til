@@ -197,7 +197,7 @@ others
 
 
 JS
-
+* http://javascript.info/
 * http://kursjs.pl/
 * http://youmightnotneedjquery.com/
 * Koansy https://github.com/liammclennan/JavaScript-Koans
