@@ -293,6 +293,9 @@ Fetch
 * https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 * https://github.com/github/fetch
 
+Cool API's
+* [Clarifai](https://clarifai.com/)
+
 Security
 
 * https://github.com/vasanthk/web-security-basics
