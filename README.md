@@ -1,5 +1,5 @@
 # frontend-til
-## TIL notebook from Junior Front-end Developer iSA bootcamp
+## TIL notebook: from Junior Frontend Developer iSA bootcamp to Frontend Software Engineer @ Marviq & Wunderman Thompson Commerce
 
 I want to give it a try to understand things better by making notes (which I enjoy doing)
 
