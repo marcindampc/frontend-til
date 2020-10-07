@@ -143,6 +143,8 @@ Email form
 
 css
 
+* https://getcssscan.com/css-box-shadow-examples CSS Shadows & stuff...
+
 * transitions & transformationsn https://robots.thoughtbot.com/transitions-and-transforms
 * https://speckyboy.com/css-background-effects/
 * https://github.com/necolas/normalize.css/
